@@ -20,9 +20,9 @@ Pictures of the application are below. Click them for larger versions.
 # Project Files
 The following links contain summary overviews of each file used in the project. Please refer to a file's code directly for specific implementation and details regarding that file.
 
-* [card.raw](#card.raw)
-* [recover.c](#recover.c)
-* [000.jpg](#000.jpg)
+* [card.raw](#cardraw)
+* [recover.c](#recoverc)
+* [000.jpg](#000jpg)
 
 ## card.raw
 This is a [forensic image](https://whatis.techtarget.com/definition/forensic-image) of the memory card provided by the course's instructors. It contains 50 JPEG images that the program should recover.
